@@ -1,20 +1,4 @@
-Portfolio Project
-This repository contains my personal portfolio code, built with TypeScript. It showcases my projects, skills, and professional background in a modern and responsive design.
 
-Table of Contents
-Overview
-
-Features
-
-Installation
-
-Usage
-
-Development
-
-License
-
-Contributing
 
 Overview
 This portfolio project was developed using TypeScript to ensure robust type checking and improved maintainability of the codebase. It presents my work in an engaging and professional layout that adapts well to different devices and screen sizes.
@@ -54,20 +38,9 @@ After completing the installation steps, you can start the development server wi
 
 bash
 npm run dev
-This command will launch the project locally, and you should be able to view the portfolio in your browser at the default address (usually http://localhost:3000).
+This command will launch the project locally, and you should be able to view the portfolio in your browser at the default address .
 
 Development
 If you are interested in contributing or making changes to the project, please follow these guidelines:
 
-Create a new branch for any feature or bugfix:
 
-bash
-git checkout -b feature/your-feature-name
-Make your changes and commit them with clear, descriptive commit messages:
-
-bash
-git commit -m "Add feature: description of changes"
-Push your branch to the repository and open a Pull Request for review:
-
-bash
-git push origin feature/your-feature-nam
